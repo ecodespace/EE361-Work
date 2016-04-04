@@ -1,0 +1,9 @@
+﻿  NumGroup.cpp
+c:\users\ecpower2\documents\schoolwork\4 - spring 2016\ee361 - fundamentals of software engineering\hw_4\hw_4_roulette\hw_4_roulette\numgroup.h(11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\ecpower2\documents\schoolwork\4 - spring 2016\ee361 - fundamentals of software engineering\hw_4\hw_4_roulette\hw_4_roulette\numgroup.h(11): note: Cannot generate copy-ctor or copy-assignment operator when UDT contains a zero-sized array
+  main.cpp
+c:\users\ecpower2\documents\schoolwork\4 - spring 2016\ee361 - fundamentals of software engineering\hw_4\hw_4_roulette\hw_4_roulette\numgroup.h(11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\ecpower2\documents\schoolwork\4 - spring 2016\ee361 - fundamentals of software engineering\hw_4\hw_4_roulette\hw_4_roulette\numgroup.h(11): note: Cannot generate copy-ctor or copy-assignment operator when UDT contains a zero-sized array
+  Generating Code...
+  HW_4_Roulette.vcxproj -> C:\Users\ECpower2\Documents\Schoolwork\4 - Spring 2016\EE361 - Fundamentals of Software Engineering\HW_4\HW_4_Roulette\Debug\HW_4_Roulette.exe
+  HW_4_Roulette.vcxproj -> C:\Users\ECpower2\Documents\Schoolwork\4 - Spring 2016\EE361 - Fundamentals of Software Engineering\HW_4\HW_4_Roulette\Debug\HW_4_Roulette.pdb (Partial PDB)

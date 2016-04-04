@@ -1,0 +1,16 @@
+﻿  List.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+  Generating Code...
+main.obj : error LNK2019: unresolved external symbol "public: __thiscall List<int>::List<int>(void)" (??0?$List@H@@QAE@XZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: void __thiscall List<int>::Insert(int const &)" (?Insert@?$List@H@@QAEXABH@Z) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: void __thiscall List<int>::ResetList(void)" (?ResetList@?$List@H@@QAEXXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: int __thiscall List<int>::GetNextItem(void)" (?GetNextItem@?$List@H@@QAEHXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: bool __thiscall List<int>::HasNext(void)" (?HasNext@?$List@H@@QAE_NXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: __thiscall List<float>::List<float>(void)" (??0?$List@M@@QAE@XZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: void __thiscall List<float>::Insert(float const &)" (?Insert@?$List@M@@QAEXABM@Z) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: void __thiscall List<float>::ResetList(void)" (?ResetList@?$List@M@@QAEXXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: float __thiscall List<float>::GetNextItem(void)" (?GetNextItem@?$List@M@@QAEMXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: bool __thiscall List<float>::HasNext(void)" (?HasNext@?$List@M@@QAE_NXZ) referenced in function _main
+C:\Users\ECpower2\Documents\Schoolwork\4 - Spring 2016\EE361 - Fundamentals of Software Engineering\Lab_6\Lab_6_Part_1_2\Debug\Lab_6_Part_1_2.exe : fatal error LNK1120: 10 unresolved externals

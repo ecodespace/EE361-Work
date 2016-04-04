@@ -1,0 +1,26 @@
+6 is already taken.
+A listing of the hour and the corresponding name:
+Hour 0: William Jennings Brian
+Hour 1: None was scheduled.
+Hour 2: Bill William Smith
+Hour 3: None was scheduled.
+Hour 4: Brad Smith Williams
+Hour 5: Mary Margaret Jones
+Hour 6: Andrew Bill Summer
+Hour 7: None was scheduled.
+Hour 8: Jane Birdsong Wren
+Hour 9: None was scheduled.
+Hour 10: None was scheduled.
+Hour 11: Susy Olive Oliver
+Hour 12: Mary Jane Smith
+Hour 13: None was scheduled.
+Hour 14: None was scheduled.
+Hour 15: None was scheduled.
+Hour 16: None was scheduled.
+Hour 17: None was scheduled.
+Hour 18: None was scheduled.
+Hour 19: None was scheduled.
+Hour 20: None was scheduled.
+Hour 21: None was scheduled.
+Hour 22: None was scheduled.
+Hour 23: None was scheduled.

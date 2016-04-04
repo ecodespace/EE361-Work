@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Polygon.cpp
+c:\users\ecpower2\documents\schoolwork\4 - spring 2016\ee361 - fundamentals of software engineering\lab_5\lab_5_polygon\lab_5_polygon\polygon.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Lab_5_Polygon.vcxproj -> C:\Users\ECpower2\Documents\Schoolwork\4 - Spring 2016\EE361 - Fundamentals of Software Engineering\Lab_5\Lab_5_Polygon\Debug\Lab_5_Polygon.exe
+  Lab_5_Polygon.vcxproj -> C:\Users\ECpower2\Documents\Schoolwork\4 - Spring 2016\EE361 - Fundamentals of Software Engineering\Lab_5\Lab_5_Polygon\Debug\Lab_5_Polygon.pdb (Partial PDB)

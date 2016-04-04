@@ -1,0 +1,13 @@
+﻿  Purchase.cpp
+  main.cpp
+c:\users\ecpower2\documents\schoolwork\4 - spring 2016\ee361 - fundamentals of software engineering\lab_6\lab_6_part_1_3\lab_6_part_1_3\main.cpp(12): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ecpower2\documents\schoolwork\4 - spring 2016\ee361 - fundamentals of software engineering\lab_6\lab_6_part_1_3\lab_6_part_1_3\main.cpp(13): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ecpower2\documents\schoolwork\4 - spring 2016\ee361 - fundamentals of software engineering\lab_6\lab_6_part_1_3\lab_6_part_1_3\main.cpp(14): warning C4305: 'argument': truncation from 'double' to 'float'
+  List.cpp
+  Generating Code...
+main.obj : error LNK2019: unresolved external symbol "public: __thiscall List<class Purchase>::List<class Purchase>(void)" (??0?$List@VPurchase@@@@QAE@XZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: void __thiscall List<class Purchase>::Insert(class Purchase const &)" (?Insert@?$List@VPurchase@@@@QAEXABVPurchase@@@Z) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: void __thiscall List<class Purchase>::ResetList(void)" (?ResetList@?$List@VPurchase@@@@QAEXXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: class Purchase __thiscall List<class Purchase>::GetNextItem(void)" (?GetNextItem@?$List@VPurchase@@@@QAE?AVPurchase@@XZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: bool __thiscall List<class Purchase>::HasNext(void)" (?HasNext@?$List@VPurchase@@@@QAE_NXZ) referenced in function _main
+C:\Users\ECpower2\Documents\Schoolwork\4 - Spring 2016\EE361 - Fundamentals of Software Engineering\Lab_6\Lab_6_Part_1_3\Debug\Lab_6_Part_1_3.exe : fatal error LNK1120: 5 unresolved externals

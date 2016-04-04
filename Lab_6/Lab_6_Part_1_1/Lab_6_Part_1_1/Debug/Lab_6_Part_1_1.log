@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\ecpower2\documents\schoolwork\4 - spring 2016\ee361 - fundamentals of software engineering\lab_6\lab_6_part_1_1\lab_6_part_1_1\main.cpp(25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ecpower2\documents\schoolwork\4 - spring 2016\ee361 - fundamentals of software engineering\lab_6\lab_6_part_1_1\lab_6_part_1_1\main.cpp(26): warning C4244: 'argument': conversion from 'float' to 'ItemType', possible loss of data
+c:\users\ecpower2\documents\schoolwork\4 - spring 2016\ee361 - fundamentals of software engineering\lab_6\lab_6_part_1_1\lab_6_part_1_1\main.cpp(10): warning C4101: 'oneTemp': unreferenced local variable
+  Lab_6_Part_1_1.vcxproj -> C:\Users\ECpower2\Documents\Schoolwork\4 - Spring 2016\EE361 - Fundamentals of Software Engineering\Lab_6\Lab_6_Part_1_1\Debug\Lab_6_Part_1_1.exe
+  Lab_6_Part_1_1.vcxproj -> C:\Users\ECpower2\Documents\Schoolwork\4 - Spring 2016\EE361 - Fundamentals of Software Engineering\Lab_6\Lab_6_Part_1_1\Debug\Lab_6_Part_1_1.pdb (Partial PDB)
